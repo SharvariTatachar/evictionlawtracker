@@ -1,0 +1,9 @@
+# macOS system files
+.DS_Store
+
+# Python virtual environments
+.venv/
+
+# Data files 
+xmldata/
+LSCEvictionLaws_StateTerritory_Data.xlsx
