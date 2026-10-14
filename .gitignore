@@ -5,5 +5,7 @@
 .venv/
 
 # Data files 
+data/
 xmldata/
-LSCEvictionLaws_StateTerritory_Data.xlsx
+*.xlsx
+*.csv

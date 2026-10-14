@@ -1,4 +1,6 @@
 python3 match_statutes.py \
-  --workbook LSC_selected_citations.xlsx \
+  --workbook ./EvictionLawTracker.xlsx \
   --xml-root ./xmldata \
-  --output LSC_selected_citations_matched.xlsx
+  --output ./LSCEvictionLaws_StateTerritory_Data_matched.xlsx \
+  --target-year 2021 \
+  --year-policy exact-or-prior
